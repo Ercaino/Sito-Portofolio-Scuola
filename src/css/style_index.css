@@ -9,13 +9,13 @@
 
     *{
         font-family: 'Kalam', cursive;
-        color: #fff;
+        color: #000;
     }
     html, body{
         height: 100%;
     }
     body{
-        background: url(../asset/image/Night.gif) no-repeat;
+        background: url(../asset/image/background.jpg) no-repeat;
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
@@ -99,6 +99,10 @@
     }
     .header_login:hover{
         color: grey;
+    }
+
+    @media (min-width: 990px){
+      /*menu amburgher*/  
     }
 
 /*  Main
