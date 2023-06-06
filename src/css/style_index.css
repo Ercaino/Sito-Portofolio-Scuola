@@ -15,7 +15,7 @@
         height: 100%;
     }
     body{
-        background: url(../asset/image/background.jpg) no-repeat;
+        background-color: #f8f9fa;
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
