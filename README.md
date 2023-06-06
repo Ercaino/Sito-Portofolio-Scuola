@@ -1,6 +1,6 @@
 <!--IMG PRESENTAZIONE-->
 <div align="center" style"border-radius:15px">
-  <img src="src/asset/image/Night.gif" style"width:100%;border-radius:15px">
+  <img src="src/asset/image/Profile.gif" style"width:100%;border-radius:15px">
 </div>
 &nbsp;
 
@@ -18,14 +18,16 @@ Website based on pure HTML - CSS - JS, used as an exercise at the Imperia Techno
 
 >  -ꦼ———▸ 1️ Home Page
 >  -ꦼ———▸ 2 Project
-         ——▸ 1 
-         ——▸ 2 
-         ——▸ 3 
-         ——▸ 4 
-         ——▸ 5 
-         ——▸ 6 
-         ——▸ 7 
+         ——▸ 1 Packet Tracer
+         ——▸ 2 Script SH
+         ——▸ 3 MITM
+         ——▸ 4 Arduino Telemetro
+         ——▸ 5 AppInventore Fake News
+         ——▸ 6 Sito web
+         ——▸ 7 Arduino progetto
 >  -ꦼ———▸ 3 Login
+>  -ꦼ———▸ 4 Time
+>  -ꦼ———▸ 5 Contact
 ```
 
 ```
