@@ -107,7 +107,7 @@
     /* Card
     ===================================== */
     
-    .cards {
+      .mycard .cards {
         display: grid;
         justify-content: space-evenly;
         justify-items: center;
@@ -123,7 +123,7 @@
         --curve: 40;
       }
       
-      .card {
+      .mycard .card {
         position: relative;
         display: block;
         height: 100%;  
@@ -132,12 +132,12 @@
         text-decoration: none;
       }
       
-      .card_image {      
+      .mycard .card_image {      
         width: 100%;
         height: auto;
       }
       
-      .card_overlay {
+      .mycard .card_overlay {
         position: absolute;
         bottom: 0;
         left: 0;
@@ -149,11 +149,11 @@
         transition: .2s ease-in-out;
       }
       
-      .card:hover .card_overlay {
+      .mycard .card:hover .card_overlay {
         transform: translateY(0);
       }
       
-      .card_header {
+      .mycard .card_header {
         position: relative;
         display: flex;
         align-items: center;
@@ -165,7 +165,7 @@
         transition: .2s ease-in-out;
       }
       
-      .card_arc {
+      .mycard .card_arc {
         width: 80px;
         height: 80px;
         position: absolute;
@@ -174,29 +174,29 @@
         z-index: 1;
       }
       
-      .card_arc path {
+      .mycard .card_arc path {
         fill: var(--surface-color);
         /* d: path("M 40 80 c 22 0 40 -22 40 -40 v 40 Z"); Non più supportato da css, creato via js*/ 
       }       
       
-      .card:hover .card_header {
+      .mycard .card:hover .card_header {
         transform: translateY(0);
       }
       
-      .card_thumb {
+      .mycard .card_thumb {
         flex-shrink: 0;
         width: 50px;
         height: 50px;      
         border-radius: 50%;      
       }
       
-      .card_title {
+      .mycard .card_title {
         font-size: 1em;
         margin: 0 0 .3em;
         color: #6A515E;
       }
       
-      .card_tagline {
+      .mycard .card_tagline {
         display: block;
         margin: 1em 0;
         font-family: "MockFlowFont";  
@@ -204,12 +204,12 @@
         color: #D7BDCA;  
       }
       
-      .card_status {
+      .mycard .card_status {
         font-size: .8em;
         color: #D7BDCA;
       }
       
-      .card_description {
+      .mycard .card_description {
         padding: 0 2em 2em;
         margin: 0;
         color: #D7BDCA;

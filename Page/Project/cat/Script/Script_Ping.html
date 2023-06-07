@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Meta tag -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description" content="Site portfolio for school">
+    <meta name="author" content="Sappia Fulvio">
+
+    <!-- Meta tag og -->
+    <meta property="og:title" content="Portfolio Sappia ❐☆">
+    <meta property="og:type" content="portfolio">
+    <meta property="og:description" content="Site portfolio for school">
+
+    <!-- Generality -->
+    <title>Portfolio Sappia ❐☆</title>
+    <link rel="shortcut icon" type="image/jpg" href="../../../../src/asset/image/LogoBook_1.png" sizes="16x16">
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+    <link rel="stylesheet" href="../../../../src/css/style_index.css"/>
+    <link rel="stylesheet" href="../../../../src/css/styles.css"/>
+    <link rel="stylesheet" href="../../../../src/css/style_header.css" />
+
+</head>
+<body>
+
+    <!-- Header -->
+    <header class="header clearfix">
+        <div>
+            <a href="../../../../index.html" class="header_logo">
+                <img class="logo_img" src="../../../../src/asset/image/LogoBook_2.png" alt="Logo">
+                ┌ Portfolio Sappia ❐☆
+            </a>
+        </div>
+        <div>
+            <ul class="header_menu">
+                <li class="header_menu_item"><a href="../../../../index.html">Home</a></li>
+                <li class="header_menu_item"><a href="../../Project.html">Project</a></li>
+                <li class="header_menu_item"><a href="../../../Contact/Contact.html">Contact</a></li>
+                <li class="header_menu_item"><a href="../../../Time/Time.html">Time</a></li>
+                <li class="header_menu_item"><a href="../../../Login/Login.html">Login
+                        <img src="../../../../src/asset/image/LogoLogin.png" alt="Login" class="header_login">
+                        </a>
+                </li>
+            </ul>
+        </div>
+        
+        <button id="burger" class="open-main-nav">
+            <span class="burger"></span>
+            <span class="burger-text">Menu</span>
+        </button>
+        <nav class="main-nav" id="main-nav">
+			<ul>
+				<li class="header_menu_item"><a href="../../../../index.html">Home</a></li>
+                <li class="header_menu_item"><a href="../../Project.html">Project</a></li>
+                <li class="header_menu_item"><a href="../../../Contact/Contact.html">Contact</a></li>
+                <li class="header_menu_item"><a href="../../../Time/Time.html">Time</a></li>
+                <li class="header_menu_item"><a href="../../../Login/Login.html">Login
+                        <img src="../../../../src/asset/image/LogoLogin.png" alt="Login" class="header_login">
+                        </a>
+                </li>
+			</ul>
+		</nav>        
+	</header>
+
+    <main>
+        <section class="py-1">
+            <div class="py-3 my-4">
+                <div class="container py-2 px-5 my-5">
+                    <div class="row gx-5 align-items-center">
+                        <div class="col-lg-6 order-first order-lg-last"><img class="img-fluid rounded mb-5 mb-lg-0" src="../../../../src/asset/image/Script_Ping.png" alt="..." /></div>
+                        <div class="col-lg-6">
+                            <h2 class="fw-bolder">Script Ping</h2>
+                            <p class="lead fw-normal text-muted mb-0">Questo script permette di eseguire il ping per n volte e salvare in un file oppure no.</p>
+                        </div>
+                    </div>
+                    <div class="text-Left mb-1">
+                        <p class="lead fw-normal text-muted">--- Script usato per scopo dimostrativo.<br>--- Piccolo tutorial per fare scripting <a class="text-decoration-none" href="../../../../src/asset/pdf/Scripting.pdf">Tutorial</a><br>--- Scaricare il file <a class="text-decoration-none" href="../../../../src/asset/file/Script_Ping.sh">View project<i class="bi-arrow-right"></i></a></p>
+                        
+                    </div>
+                    <div class="col-xl-8">
+                        <div class="accordion mb-5" id="accordionExample">
+                            <div class="accordion-item">
+                                <h3 class="accordion-header" id="headingTwo"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Spiegazione Codice</button></h3>
+                                <div class="accordion-collapse collapse" id="collapseTwo" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p class="lead fw-normal text-muted mb-0">
+                                            <strong>1</strong> <code>#!/bin/bash</code>: Shebang che indica l'uso del programma Bash per eseguire lo script.<br>
+                                            <strong>2</strong> <code>echo "Numero esecuzioni: "</code>: Stampa a schermo il messaggio "Numero esecuzioni: ".<br>
+                                            <strong>3</strong> <code>read n</code>: Legge l'input dell'utente e assegna il valore inserito alla variabile n.<br>
+                                            <strong>4</strong> <code>echo "IP: "</code>: Stampa a schermo il messaggio "IP: ".<br>
+                                            <strong>5</strong> <code>read IP</code>: Legge l'input dell'utente e assegna il valore inserito alla variabile IP.<br>
+                                            <strong>6</strong> <code>echo "Output [1] file o [2] line: "</code>: Stampa a schermo il messaggio "Output [1] file o [2] line: ".<br>
+                                            <strong>7</strong> <code>read comm</code>: Legge l'input dell'utente e assegna il valore inserito alla variabile comm.<br>
+                                            <strong>8</strong> <code>if [[ "$comm" = "1" ]]; then</code>: Inizia una struttura di controllo if che verifica se il valore di comm è uguale a "1".<br>
+                                            <strong>9</strong> <code>echo "Nome file"</code>: Stampa a schermo il messaggio "Nome file".<br>
+                                            <strong>10</strong> <code>read nomefile</code>: Legge l'input dell'utente e assegna il valore inserito alla variabile nomefile.<br>
+                                            <strong>11</strong> <code>if [ -e "$nomefile" ]; then</code>: Verifica se il file specificato da nomefile esiste.<br>
+                                            <strong>12</strong> <code>echo "Il file esiste!"</code>: Stampa a schermo il messaggio "Il file esiste!".<br>
+                                            <strong>13</strong> <code>echo "[1] sovrascrivere o [2] appendere"</code>: Stampa a schermo il messaggio "[1] sovrascrivere o [2] appendere".<br>
+                                            <strong>14</strong> <code>read rix</code>: Legge l'input dell'utente e assegna il valore inserito alla variabile rix.<br>
+                                            <strong>15</strong> <code>if [[ "$rix" = "1" ]]</code>; then: Inizia una struttura di controllo if che verifica se il valore di rix è uguale a "1".<br>
+                                            <strong>16</strong> <code>ping -w $n $IP > $nomefile</code>: Esegue il comando di ping con l'opzione -w specificata da n e l'indirizzo IP specificato da IP. L'output del comando di ping viene redirezionato nel file specificato da nomefile, sovrascrivendo eventuali contenuti esistenti.<br>
+                                            <strong>17</strong> <code>elif [[ "$rix" = "2" ]]</code>; then: Inizia una struttura di controllo elif che verifica se il valore di rix è uguale a "2".<br>
+                                            <strong>18</strong> <code>ping -w $n $IP >> $nomefile</code>: Esegue il comando di ping con l'opzione -w specificata da n e l'indirizzo IP specificato da IP. L'output del comando di ping viene aggiunto al file specificato da nomefile, senza sovrascriverne il contenuto.<br>
+                                            <strong>19</strong> <code>elif [[ "$comm" = "2" ]]</code>; then: Inizia una struttura di controllo elif che verifica se il valore di comm è uguale a "2".<br>
+                                            <strong>20</strong> <code>ping -w $n $IP</code>: Esegue il comando di ping con l'opzione -w specificata da n e l'indirizzo IP specificato da IP, senza alcuna redirezione dell'output.<br>
+                                            <strong>21</strong> <code>else</code>: Blocco eseguito se nessuna delle condizioni precedenti è vera.<br>
+                                            <strong>22</strong> <code>echo "errore"</code>: Stampa a schermo il messaggio "errore".<br>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+        
+
+    <!-- Footer-->
+    <footer class="bg-dark py-4 mt-auto">
+        <div class="container px-5">
+            <div class="row align-items-center justify-content-between flex-column flex-sm-row">
+                <div class="col-auto"><div class="small m-0 text-white">Copyright - 2023 &copy; Ercaino | Fulvio</div></div>
+                <div class="col-auto">
+                    <!-- <a class="link-light small" href="#!">Privacy</a>
+                    <span class="text-white mx-1">&middot;</span>
+                    <a class="link-light small" href="#!">Terms</a>
+                    <span class="text-white mx-1">&middot;</span> -->
+                    <a class="link-light small" href="../../../Contact/Contact.html">Contact</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="../../../../src/js/script_card.js"></script>
+    <script src="../../../../src/js/script_burger_menu.js"></script>
+    <script  src="../../../../script.js"></script>
+    <!-- Bootstrap core JS-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Core theme JS-->
+    <script src="./../../../src/js/scripts.js"></script>
+
+</body>
+</html>
