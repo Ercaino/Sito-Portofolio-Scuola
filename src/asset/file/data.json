@@ -1,0 +1,501 @@
+[
+  {
+    "title": "Papa Francesco fa marcia indietro su Trump:",
+    "text": "Quest’uomo non è cristiano ha dichiarato recentemente il pontefice riguardo Donald Trump, di nuovo in corsa per le presidenziali USA, un deciso cambio di opinione dato che nel 2016 aveva stupito il mondo intero appoggiando la candidatura del presidente.",
+    "img": "https://st.ilfattoquotidiano.it/wp-content/uploads/2017/05/trump905.jpg",
+    "true_false": false,
+    "source": "https://www.corriere.it/esteri/cards/photoshop-manipolazione-siti-specchio-cosi-sono-nate-bufale-trump/endorsement-papa-francesco.shtml"
+  },
+  {
+    "title": "Attentato Torri Gemelle",
+    "text": "L'attentato alle Torri Gemelle è stato organizzato dal governo degli Stati Uniti e non da un gruppo di terroristi islamici come tutti affermano.",
+    "img": "https://static.open.online/wp-content/uploads/2022/09/torri-gemelle.png",
+    "true_false": false,
+    "source": "https://it.m.wikipedia.org/wiki/Attentati_dell%2711_settembre_2001"
+  },
+  {
+    "title": "Le lasagne di Wembley",
+    "text": "Secondo il ventiduenne Billy McLean, il piano sarebbe stato quello di utilizzare un sistema di riscaldamento per il campo di Wembley e chiudere completamente il tetto dello stadio, così da realizzare il più grande forno mai visto al mondo.",
+    "img": "https://pbs.twimg.com/media/ExQlOVBXMAYD7Nv.jpg",
+    "true_false": false,
+    "source": "https://www.adnkronos.com/coronavirus-wembley-e-la-maxi-lasagna-la-fake-news-e-virale_6oImtu86pB1lgvk9ObyZf9"
+  },
+  {
+    "title": "Complotto sullo zucchero di canna",
+    "text": "Da alcuni giorni è diventato virale in rete un video che svelerebbe la cosiddetta truffa dello zucchero di canna grezzo, che dimostrerebbe come lo zucchero di canna che troviamo nelle bustine monodose dei bar sia in sostanza un prodotto contraffatto e molto diverso da quanto dichiarato dai produttori.",
+    "img": "https://media.licdn.com/dms/image/C5612AQEWNr5J2i67XA/article-cover_image-shrink_600_2000/0/1520169608554?e=2147483647&v=beta&t=lpmuhTHFmlYFU76FEHM3nO008z0fcHA2AJyaSErPwmM",
+    "true_false": false,
+    "source": "https://www.wired.it/scienza/medicina/2017/04/06/truffa-zucchero-canna-bufala/"
+  },
+  {
+    "title": "Jerry Calà e l’infarto",
+    "text": "L’attore comico Jerry Calà ospite a Domenica In, programma della sua ex-moglie ed ormai amica Mara Venier, racconta la disavventura avvenuta 10 giorni fa, dove ha rischiato di morire per un infarto che ha portato varie complicazioni che lo lasciano in pericolo di vita in qualsiasi momento. Calà racconta la sua storia e non manca di lanciare una stilettata contro chi lo avrebbe dovuto curare, lamentandosi della scarsa rapidità dei soccorsi.",
+    "img": "https://static2.iodonna.it/wp-content/uploads/webp/2021/06/mara-venier-jerry-cal%C3%A0-domenica-in.jpg.webp?v=1723142",
+    "true_false": false,
+    "source": "https://www.leggo.it/spettacoli/televisione/jerry_cala_domenica_in_infarto_cosa_ha_detto_oggi_2_4_2023-7324502.html "
+  },
+  {
+    "title": "La Regina Elisabetta II mandò Harry in guerra in Afghanistan sperando morisse",
+    "text": "Sono sconcertanti le dichiarazioni raccolte dal documentario “The Real Crown” che ha intervistato l’ex capo dell’esercito britannico Sir Mike Jackson, il quale racconta di un incontro avvenuto nel 2001 con la ormai defunta Regina in cui si discusse se inviare o meno i due Principi in guerra contro i talebani e che alla fine si decise di mandare solo Harry in quanto la sua morte era un rischio accettabile, quasi come se la Regina sperasse che qualcun’altro eliminasse il problema della personalità di Harry al posto suo.",
+    "img": "https://www.gedistatic.it/content/gnn/img/lastampa/2023/04/11/080558369-89d703b7-8b26-44ec-9307-95c4fe752057.jpg?webp",
+    "true_false": false,
+    "source": "https://www.lastampa.it/esteri/2023/04/11/news/harry_guerra_regina_william-12747480/?ref=LSHSTD-BH-I0-PM8-S8-T1"
+  },
+  {
+    "title": "Percorre la scalinata di Trinità dei Monti a Roma con un SUV, per lui solo poche centinaia di euro di danni",
+    "text": "L’ingegnere saudita che nel maggio del 2022 percorse con un SUV a noleggio la scalinata di Trinità dei Monti, una delle scalinate più iconiche della capitale, è stato finalmente condannato, ma invece della pesante condanna che ci si aspettava, dato che il reato da lui commesso prevede un periodo di detenzione tra i 2 e i 5 anni, la vicenda si è conclusa con un’ammenda di poche centinaia di euro in modo da non incrinare i rapporti tra l’Italia e l’Arabia Saudita",
+    "img": "https://static.sky.it/images/skytg24/it/roma/2023/04/11/suv-scale-trinita-monti-processo/auto_suv_scalinata_trinita_monti_ansa_1.jpg.transform/original/6b161aae89e835c1c888e02c9bb6adce6c51203d/img.jpg",
+    "true_false": false,
+    "source": "https://www.lastampa.it/cronaca/2023/04/11/news/roma_con_il_suv_sulle_scale_di_trinita_dei_monti_a_giudizio_un_ingegnere_saudita_di_37_anni_che_ora_rischia_condanna_fino_-12748237/?ref=LSHBBC-BH-I0-PM13-S9-T1"
+  },
+  {
+    "title": "Al via in Trentino una caccia spietata agli orsi, anche i privati possono partecipare",
+    "text": "Dopo la morte del runner attaccato da un orso nei boschi del Trentino, il presidente della regione ha preso una decisione drastica, dato l’ormai numero spropositato di orsi in Trentino, chiunque sarà autorizzato alla caccia dell’animale, anche senza particolari autorizzazioni.",
+    "img": "https://www.repstatic.it/content/nazionale/img/2023/04/11/160059002-2112e496-2a82-465d-881c-7998a096bd2d.jpg?webp",
+    "true_false": false,
+    "source": "https://www.lastampa.it/cronaca/2023/04/11/video/parco_dabruzzo_laudio_che_il_33enne_aggredito_dallorso_ha_mandato_alla_moglie-12747562/?ref=LSHSTD-BH-I0-PM6-S7-T1"
+  },
+  {
+    "title": "Baby gang fa crollare parte di un balcone in una via pedonale trafficata",
+    "text": "Attimi di paura in via Matteotti a Sanremo quando è crollato un metro di intonaco da un balcone, fortunatamente nessuno è stato colpito per puro caso, dato che il balcone è situato proprio sopra l’ingresso di un frequentatissimo negozio della città dei fiori. La caduta dell’intonaco non è stata però accidentale, infatti è opera di una baby gang locale, le forze dell’ordine stanno cercando di identificare i responsabili.",
+    "img": "https://www.gedistatic.it/content/gnn/img/ilsecoloxix/2023/04/10/163833871-716be81d-9891-426b-b653-cd4bcf3f8e13.jpg?webp",
+    "true_false": false,
+    "source": "https://www.ilsecoloxix.it/imperia/2023/04/10/news/sanremo_crolla_un_cornicione_in_via_matteotti_momenti_di_paura-12746795/"
+  },
+  {
+    "title": "Briatore lancia un nuovo gel per le mani da usare dopo aver toccato un povero",
+    "text": "L’imprenditore multimilionario Flavio Briatore si lancia nel mercato dei gel lavamani con il suo gel pensato per le persone più abbienti. Un gel specifico da usare dopo aver toccato qualcuno con un reddito basso. L’imprenditore è stato subito coperto da pesanti critiche per l’insensibilità mostrata, ma lui si difende dicendo che finché la gente lo compra lui lo continuerà a vendere.",
+    "img": "https://www.lercio.it/wp-content/uploads/2022/10/briatore-1-1024x538.jpg.webp",
+    "true_false": false,
+    "source": "https://www.lercio.it/briatore-lancia-il-gel-per-le-mani-da-usare-dopo-aver-toccato-un-povero/?fbclid=IwAR1YEW2nZ4TZJmxsTwFqqcwJlXn9XkyM5iP5SwjqA2deDDAPI5G3im1KXhE"
+  },
+  {
+    "title": "Cracco svela il suo segreto per l’agnello, lo condisce da vivo",
+    "text": "Lo chef pluristellato dalla guida Michelin Carlo Cracco ha svelato il suo segreto per cucinare il miglior agnello possibile, il modo migliore per far si che le spezie e il condimento insaporiscano la carne è applicarle all’animale quando è ancora vivo. Questa tecnica è però possibile solo a coloro che hanno accesso ad una materia prima freschissima, dall’ovile alla cucina nel giro di pochi metri.",
+    "img": "https://www.lercio.it/wp-content/uploads/2015/03/cracco-il-segreto-del-mio-agnello-lo-condisco-da-vivo.jpg.webp",
+    "true_false": false,
+    "source": "https://www.lercio.it/cracco-il-segreto-del-mio-agnello-lo-condisco-da-vivo/?fbclid=IwAR0j2Yp04tdV-tN0yWx0hpmVX6wcFNmqFvDXbENmRmQZOsDcUKrJU2hp4wA"
+  },
+  {
+    "title": "Affida il sito della propria azienda ad un webmaster di Napoli e si trova un mattone nella home",
+    "text": "Ha dell’assurdo la storia di un imprenditore del vicentino che ha affidato la gestione del sito web della propria azienda di vini ad una società di webmaster con base a Napoli, sfortunatamente per l’imprenditore è stato truffato e, come si usa dire, oltre il danno la beffa, dato che il webmaster ha lasciato nella homepage del sito un mattone, imitando i classici mattoni lasciati al posto delle ruote a cui vengono rubate.",
+    "img": "https://www.lercio.it/wp-content/uploads/2015/01/affida-il-sito-a-un-webmaster-di-napoli-e-si-ritrova-un-mattone-in-home-page.jpg.webp",
+    "true_false": false,
+    "source": "https://www.lercio.it/si-affida-a-webmaster-di-napoli-e-si-ritrova-un-mattone-in-home-page/?fbclid=IwAR1ynx40MlEh6B6AUw1cdQSKuepMg1kU4n9RuZ0h-prwqiKERmQm9kuJ6gc"
+  },
+  {
+    "title": "Messi al Napoli",
+    "text": "Messi al Napoli con pre-contratto già firmato nel calciomercato di gennaio. All’improvviso l’annuncio si diffonde su tutte le piattaforme sportive, dove annuncia che il fuoriclasse del PSG firma un contratto per andare a giocare nel Napoli a fine stagione.",
+    "img": "https://www.bufale.net/messi-al-napoli-con-pre-contratto-gia-firmato-la-bufala-che-sa-di-pesce-daprile/",
+    "true_false": false,
+    "source": "https://www.bufale.net/?s=messi+al+napoli"
+  },
+  {
+    "title": "Nuovo attacco hacker su facebook",
+    "text": "Nuovo attacco hacker subito da tutti gli utenti facebook, con il quale insulta e manda messaggi offensivi ai nostri amici con il nostro account.",
+    "img": "https://www.bufale.net/wp-content/uploads/sites/5/2023/03/attacco-hacker.jpg",
+    "true_false": false,
+    "source": "https://www.bufale.net/nuovo-attacco-hacker-su-facebook-che-insulta-gli-amici-a-nome-nostro-torna-la-bufala/"
+  },
+  {
+    "title": "Scontri tra polizia e vigili del fuoco in Francia",
+    "text": "I vigili del fuoco francesi hanno organizzato una manifestazione chiedendo un miglioramento dei loro salari e delle loro condizioni , avendo numerosi scontri con la polizia nelle varie città della Francia.",
+    "img": "https://static.open.online/wp-content/uploads/2023/04/Copia-di-CONTESTO-MANCANTE-1.jpg",
+    "true_false": false,
+    "source": "https://www.open.online/2023/04/04/francia-scontri-polizia-vigili-fuoco-2020-fc/"
+  },
+  {
+    "title": "Russia colpisce una base NATO in Ucraina uccidendo 40 persone",
+    "text": "Circola la foto di un luogo in fiamme, apparentemente appena bombardato, dove si ritiene sia situato un bunker con all’interno un centro di comando della NATO in Ucraina. Un bunker sotterraneo segreto posto a 120 metri di profondità dove sarebbero ospitati ufficiali e consiglieri dell’alleanza atlantica. La presunta rappresaglia russa avrebbe causato diversi decessi, dei quali sarebbero stati recuperati appena 40 cadaveri dalle macerie.",
+    "img": "https://static.open.online/wp-content/uploads/2023/03/bunker-sotterraneo-nato-120-metri-fake-0.jpg",
+    "true_false": false,
+    "source": "https://www.open.online/2023/03/31/russia-base-segreta-nato-ucraina-fc/"
+  },
+  {
+    "title": "Gli Ucraini bombardano il Donbass con le frizioni",
+    "text": "Secondo le fonti russe,gli Ucraini bombardano il Donbass con le frizioni, lanciandole in aria e facendole esplodere.",
+    "img": "https://www.bufale.net/secondo-le-fonti-russe-gli-ucraini-bombardano-il-donbass-con-le-frizioni/",
+    "true_false": false,
+    "source": "https://www.bufale.net/?s=bombardamento+con+le+frizioni"
+  },
+  {
+    "title": "Ghigliottina costruita in Francia.",
+    "text": "I gilet gialli sono un movimento francese molto attivo, e dopo la riforma della pensione in Francia vorrebbe dimostrare che il movimento si è reso autore di una clamorosa provocazione, montando una ghigliottina in una piazza parigina.",
+    "img": "https://www.bufale.net/wp-content/uploads/sites/5/2019/06/gilet-gialli.jpg",
+    "true_false": false,
+    "source": "https://www.bufale.net/la-foto-dei-gilet-gialli-e-la-ghigliottina-in-piazza/"
+  },
+  {
+    "title": "Liquore protegge dal covid",
+    "text": "Bere un bicchierino di liquore a base di sambuco, o un caffè corretto al liquore di sambuco,  protegge dal Covid-19",
+    "img": "https://www.salute.gov.it/imgs/C_17_FakeNews_160_immagine.jpg",
+    "true_false": false,
+    "source": "https://www.salute.gov.it/portale/nuovocoronavirus/archivioFakeNewsNuovoCoronavirus.jsp"
+  },
+  {
+    "title": "Creme per proteggere le vie respiratorie dal coronavirus",
+    "text": "Applicare la vaselina o altre creme intorno alle narici, intrappola il virus così non entra nel naso.",
+    "img": "https://www.salute.gov.it/imgs/C_17_FakeNews_52_immagine.jpg",
+    "true_false": false,
+    "source": "https://www.salute.gov.it/portale/nuovocoronavirus/archivioFakeNewsNuovoCoronavirus.jsp?lingua=italiano&area=nuovocoronavirus&fakeNewsArchivio.page=2"
+  },
+  {
+    "title": "Per ricaricare auto elettrica si usano fonti fossili",
+    "text": "Per ricaricare le auto elettriche si usano fonti fossili, con attese lunghe, costi altissimi e usando le poche colonnine disponibili.",
+    "img": "https://www.avvenire.it/c/2023/PublishingImages/0e00b8586d144fe78e6e3dbb0b458176/auto-green.jpg?width=1024",
+    "true_false": false,
+    "source": "https://www.avvenire.it/economia/pagine/venti-fake-news-sull-auto-elettrica-e-ora-di-sfatarle"
+  },
+  {
+    "title": "Lupo attacca una macchina in corsa",
+    "text": "Un lupo che correva per strada tra Isolabona e Rocchetta Nervina è stato avvistato da una macchina di passaggio, quando la vettura ha rallentato per evitare di investire il lupo, l’animale ha attaccato il veicolo scambiandolo per una preda. I lupi sempre più frequenti a basse quote e ormai non più spaventati dalla presenza umana rappresentano un serio pericolo per le persone.",
+    "img": "https://www.larena.it/image/policy:1.8979649:1635354588/image.jpg?f=16x9&h=421&w=750&$p$f$h$w=597732e",
+    "true_false": false,
+    "source": "https://primalariviera.it/cronaca/lupo-corre-spaventato-per-strada-lavvistamento-in-val-nervia-guarda-il-video/?utm_source=primalariviera.it&utm_medium=push&utm_campaign=notification&fbclid=IwAR3QEaAkMKWzPXp8AA3cIoHagKGf432lWuQ7SrBUAeJB9fkx3JHNIEoXw2c"
+  },
+  {
+    "title": "Eruzione in rosa",
+    "text": "Un video che ritrae un vulcano in Nuova Zelanda è diventato virale sui social per l'incredibile colore rosa acceso del fumo. Ma è solo l’opera di un artista di Praga, di nome Filip Hodas, che si diverte a realizzare immagini e filmati di scenari surreali.",
+    "img": "https://media-assets.wired.it/photos/615f1ec12baabb5bf1e176b2/master/w_1920%2Cc_limit/4964bc93-4381-43fc-89d0-c8fbfae07185.jpg",
+    "true_false": false,
+    "source": "https://www.wired.it/attualita/media/2017/12/25/migliori-bufale-2017-fake-news/"
+  },
+  {
+    "title": "Rimedi omeopatici per tendenze lesbiche",
+    "text": "Incredibile ma vero: una parafarmacia romagnola, autorizzata dal Ministero della Salute, vende un prodotto omeopatico per “curare” le donne omosessuali. Si chiama Ovaria e costa 14 euro: cure fantastiche per malattie inesistenti",
+    "img": "https://media-assets.wired.it/photos/615f1ec10f2b3dd590a02ecb/master/w_1920%2Cc_limit/ea123dce-bf37-4b44-92a8-8a9762eecd38.jpg",
+    "true_false": false,
+    "source": "https://www.wired.it/attualita/media/2017/12/25/migliori-bufale-2017-fake-news/"
+  },
+  {
+    "title": "Le apocalissi di Nibiru",
+    "text": "23 settembre, 15 ottobre, 19 novembre: sono solo alcune delle tante date che per il 2017 avrebbero dovuto segnare l'apocalisse. Il Pianeta X, Nibiiru, si sarebbe dovuto schiantare sulla Terra, ma per ora abbiamo solo una sua foto (ovviamente falsa). Insomma, il numerologo David Meade non ne ha azzeccata una, e a forza di ripensamenti ha fatto sorridere un po' tutti.",
+    "img": "https://media-assets.wired.it/photos/615f1ec127c18560caa08e20/master/w_1920%2Cc_limit/a67366d3-940c-444c-86c0-afd6b1fd5644.jpg",
+    "true_false": false,
+    "source": "https://www.wired.it/attualita/media/2017/12/25/migliori-bufale-2017-fake-news/"
+  },
+  {
+    "title": "La cura del digiuno",
+    "text": "Si chiama igienismo ed è un movimento nato quasi 200 anni fa che propone una rigida dieta vegana e soprattutto vorrebbe curare le malattie senza medicinali, ma con la sola astensione dal cibo. Il tutto senza il minimo fondamento scientifico.",
+    "img": "https://media-assets.wired.it/photos/615f1ec1a02eee0720b50862/master/w_1920%2Cc_limit/ebe65441-7a4e-4e28-be40-108fe72b7e5d.jpg",
+    "true_false": false,
+    "source": "https://www.wired.it/attualita/media/2017/12/25/migliori-bufale-2017-fake-news/"
+  },
+  {
+    "title": "Cani vaccinati e autistici",
+    "text": "Circola online una tesi pseudoscientifica secondo cui i vaccini provocherebbero l’autismo nei cani, proprio come (non) accade per i bambini. Oltre che una storia infondata, non si sa nemmeno se gli animali possano essere autistici.",
+    "img": "https://media-assets.wired.it/photos/615f1ec127b5f17490c59796/master/w_1920%2Cc_limit/a2f88154-a553-4acb-9cbb-3055f935a27d.jpg",
+    "true_false": false,
+    "source": "https://www.wired.it/attualita/media/2017/12/25/migliori-bufale-2017-fake-news/"
+  },
+  {
+    "title": "Il complotto delle suole di gomma",
+    "text": "Secondo una teoria che oscilla tra pseudoscienza e delirio battezzata 'earthing', per il nostro benessere dovremmo ricollegare tutto alla Terra, iniziando dal camminare a piedi nudi. Ecco perché le scarpe in gomma, che ci tengono separati dal suolo, sarebbero un complotto.",
+    "img": "https://media-assets.wired.it/photos/615f1ec1a6c9107c248a190f/master/w_1920%2Cc_limit/82b0d593-00df-4f61-8107-1b8524a92adc.jpg",
+    "true_false": false,
+    "source": "https://www.wired.it/attualita/media/2017/12/25/migliori-bufale-2017-fake-news/"
+  },
+  {
+    "title": "Dormire a destra fa male ?",
+    "text": "Il fianco destro è sconsigliato per chi soffre di reflusso gastro-esofageo cronico. Per tutti gli altri, parlare di benefici a cuore, milza e sistema linfatico nel dormire a sinistra è una menzogna: non c'è alcun motivo scientifico per preferire un fianco rispetto all'altro.",
+    "img": "https://media-assets.wired.it/photos/615f1ec12e79de8e061e82a5/master/w_1920%2Cc_limit/602b414c-743b-4a5f-befc-c9f29a1ae4f5.png",
+    "true_false": false,
+    "source": "https://www.wired.it/attualita/media/2017/12/25/migliori-bufale-2017-fake-news/"
+  },
+  {
+    "title": "Roma, tassista aggredisce turista svizzera che aspettava Uber, ma era il nome del marito",
+    "text": "Alle 23 di ieri, infatti, Petra Rezzonico, una turista svizzera appena uscita dalla stazione Termini di Roma è stata avvicinata dal tassista Matteo Mirkucci, per chiederle dove dovesse portarla. La signora ha immediatamente risposto “No, grazie. Ho già chiamato Uber”, scatenando la furiosa reazione dell’autista, ignaro che Uber fosse il nome del marito di Petra, che lavora nella capitale per una ditta elvetica di orologi di cioccolato a forma di caveau. Mirkucci si è quindi scagliato violentemente sulla povera malcapitata, colpendola più volte con pugni, calci e CD di Califano.",
+    "img": "https://www.lercio.it/wp-content/uploads/2015/04/roma-tassista-aggredisce-turista-svizzera-che-aspettava-uber-ma-era-il-nome-del-marito.jpg.webp",
+    "true_false": false,
+    "source": "https://www.lercio.it/roma-tassista-aggredisce-turista-svizzera-che-aspettava-uber-ma-era-il-nome-del-marito/"
+  },
+  {
+    "title": "Brumotti morto dopo un aggressione",
+    "text": "Ultima ora “ Brumotti morto dopo un aggressione “. Si fa riferimento a qualche giorno fa dove Brumotti è andato in stazione a fare un intervista, dove è stato aggredito e successivamente si dice che sia morto.",
+    "img": "https://www.bufale.net/wp-content/uploads/sites/5/2023/04/Vittorio-Brumotti-morto.jpg",
+    "true_false": false,
+    "source": "https://www.bufale.net/ultimora-su-vittorio-brumotti-morto-ma-e-vivo-bufala-servita-dopo-le-news-di-oggi/"
+  },
+  {
+    "title": "Ambra Angiolini morta per un malore",
+    "text": "Si parla da qualche giorno che tutta l’Italia sia in lutto per la morte di Ambra Angiolini. Da quanto riportato sui social si è diagnosticata la sua morte per un malore improvviso.",
+    "img": "https://www.bufale.net/ci-fanno-credere-che-ambra-angiolini-sia-morta-con-la-solita-strategia/",
+    "true_false": false,
+    "source": "https://www.bufale.net/?s=ambra+angiolini"
+  },
+  {
+    "title": "Proiezionista obiettore si rifiuta di mandare i cinepanettoni",
+    "text": "Il proiezionista, Alfredo Iccico, in un inspiegabile moto di ribellione, si sia rifiutato di trasmettere i film programmati. Pare che tutto sia cominciato dopo l’approvazione della legge sul biotestamento, quando da ambienti cattolici è stata avanzata l’ipotesi di ricorrere all’obiezione di coscienza. Iccico, da sempre comunista e mangiapreti, non ha accolto positivamente la proposta: “Questi pretacci obiettano su tutto: i preservativi no, la pillola no, l’aborto no, ora non si può neanche morire come ci pare! Sapete che c’è? Anch’io ora divento obiettore, proietto solo quel che voglio io!”.",
+    "img": "https://www.lercio.it/wp-content/uploads/2017/12/proiezionista-2-1024x540.jpg.webp",
+    "true_false": false,
+    "source": "https://www.lercio.it/proiezionista-obiettore-si-rifiuta-di-mandare-i-cinepanettoni/"
+  },
+  {
+    "title": "Tatuava cicatrici invece di operare: in manette falso chirurgo",
+    "text": "È ancora sotto shock la piccola cittadina di Barbapalle, nel casertano, che stamattina ha visto l’arresto di uno stimato professionista locale. Le manette sono scattate ai polsi del dottor Angelo “Cicatrene P” Percuoco, chirurgo di quarant’anni con cinquant’anni di esperienza che per le sue capacità era diventato famoso fino a Sessa Aurunca. Il dottor Percuoco era infatti in grado di eseguire interventi a cuore aperto senza dolore post-operatorio, resezioni epatiche senza anestesia e liposuzioni senza ricevuta fiscale.",
+    "img": "https://www.lercio.it/wp-content/uploads/2017/03/tatuava-cicatrici-invece-di-operare-in-manette-falso-chirurgo-1024x546.jpg.webp",
+    "true_false": false,
+    "source": "https://www.lercio.it/tatuava-cicatrici-invece-di-operare-in-manette-falso-chirurgo/"
+  },
+  {
+    "title": "I vaccini usati per la quarta dose non funzionano contro le nuove varianti",
+    "text": "Anche se gli attuali vaccini si basano sul ceppo originario del virus, la loro efficacia si è mantenuta, soprattutto nei confronti delle forme gravi della malattia. Questa protezione tende però ad indebolirsi con il passare del tempo.",
+    "img": "https://www.salute.gov.it/imgs/C_17_FakeNews_167_immagine.jpg",
+    "true_false": false,
+    "source": "https://www.salute.gov.it/portale/nuovocoronavirus/archivioFakeNewsNuovoCoronavirus.jsp"
+  },
+  {
+    "title": "Più ci vacciniamo più aumentano le varianti del virus",
+    "text": "Le varianti sono dovute al fatto che il virus quando si replica tende a sviluppare nuove mutazioni. Secondo alcune opinioni più somministriamo vaccini e più queste varianti aumenteranno.",
+    "img": "https://www.salute.gov.it/imgs/C_17_FakeNews_154_immagine.jpg",
+    "true_false": false,
+    "source": "https://www.salute.gov.it/portale/nuovocoronavirus/archivioFakeNewsNuovoCoronavirus.jsp"
+  },
+  {
+    "title": "Se mangio più proteine produco più anticorpi e potenzio le difese immunitarie",
+    "text": "Aumentare l'assunzione di proteine con la dieta apporti benefici per il sistema immunitario. È necessario porre sempre molta cautela prima di iniziare una dieta iperproteica, poiché questo tipo di alimentazione può avere conseguenze per la salute (come l’insorgenza di patologie renali) ed eccessi di carne e proteine possono aumentare il rischio di sviluppare alcune forme tumorali.",
+    "img": "https://www.salute.gov.it/imgs/C_17_FakeNews_69_immagine.jpg",
+    "true_false": false,
+    "source": "https://www.salute.gov.it/portale/nuovocoronavirus/archivioFakeNewsNuovoCoronavirus.jsp?lingua=italiano&area=nuovocoronavirus&fakeNewsArchivio.page=1"
+  },
+  {
+    "title": "Le zanzare e l’alcool",
+    "text": "Nel 2017 un team di ricercatori europei ha scoperto che le zanzare preferiscono mordere le persone ubriache. Lo studio ha dimostrato che le zanzare hanno un olfatto più sviluppato di quanto si pensi, e che possono rilevare gli odori dell’alcol e dell’anidride carbonica emessi dai corpi umani durante la respirazione.",
+    "img": "https://www.popsci.com/uploads/2019/03/18/PFAMQFNQKFXI25OXZMCM2CRWOU.jpg?auto=webp",
+    "true_false": true,
+    "source": "https://www.zcare.it/znews/alcol-e-zanzare "
+  },
+  {
+    "title": "Le nuove terre",
+    "text": "L'11 marzo 2023, la NASA ha annunciato la scoperta di un nuovo sistema solare con tre pianeti potenzialmente abitabili. Il sistema solare si trova a 61 anni luce dalla Terra ed è stato scoperto tramite il telescopio spaziale James Webb.",
+    "img": "https://www.nasa.gov/sites/default/files/thumbnails/image/pia21421-cr.jpg",
+    "true_false": true,
+    "source": "https://www.startmag.it/energia/nasa-scoperto-un-sistema-planetario-3-mondi-abitabili/#:~:text=Il%20nuovo%20sistema%2C%20chiamato%20TRAPPIST,trovano%20in%20una%20zona%20abitabile"
+  },
+  {
+    "title": "Diventa milionario con i mobili fatti in casa",
+    "text": "La storia di Liam Machale-Smith, un 33enne inglese che ha trasformato il licenziamento e la crisi causata dalla pandemia in un'opportunità: in tre anni ha venduto oltre 10mila articoli realizzati a mano, guadagnando oltre un milione di sterline.",
+    "img": "https://citynews-today.stgy.ovh/~media/horizontal-hi/39776937576788/mobile-smit-etsy.jpg",
+    "true_false": true,
+    "source": "https://www.today.it/web/milionario-mobili-fatti-in-casa.html"
+  },
+  {
+    "title": "Padre costringe a giocare 17 ore di fila ai videogiochi senza dormire",
+    "text": "L'insolito castigo ideato da un uomo di Shenzen, in Cina: per punire il figlio, beccato a giocare di notte oltre l'orario consentito, lo ha costretto a giocare senza sosta, fino a vomitare. La punizione, filmata e condivisa sui social, ha scatenato un acceso dibattito.",
+    "img": "https://citynews-today.stgy.ovh/~media/horizontal-hi/56058261116736/bimbo-cina-tiktok-punizione-videogiochi.jpg",
+    "true_false": true,
+    "source": "https://www.today.it/web/punizione-17-ore-videogiochi.html"
+  },
+  {
+    "title": "Un uomo in Irlanda è deceduto dopo l’attacco di un gallo",
+    "text": "Secondo il Mirror nel 2022 un uomo in Irlanda sarebbe stato trovato senza vita con diverse ferite. Secondo la figlia della vittima l’assassino sarebbe un gallo.",
+    "img": "https://www.repstatic.it/content/contenthub/img/2023/02/19/205430022-78474d94-4ba9-42c3-9d52-2e6e43692c42.jpg?webp",
+    "true_false": true,
+    "source": "https://www.lastampa.it/la-zampa/2023/02/20/news/gallo_uccide_uomo_irlanda-388266433/"
+  },
+  {
+    "title": "Torna a casa in anticipo e trova la moglie impegnata in un set porno",
+    "text": "È il primo pomeriggio quando il 35enne rientra in casa dal lavoro prima del solito orario. Una volta nell'abitazione l'uomo si trova davanti il proprietario di casa, entrato con le chiavi di riserva per le emergenze. La casa era stata trasformata, secondo la denuncia dell'uomo, nel set di un film hard. L'affittuario ha avuto un'animata discussione con il proprietario dell'appartamento e ha chiamato il 112.",
+    "img": "https://citynews-today.stgy.ovh/~media/horizontal-hi/52290104856012/escort-3.jpg",
+    "true_false": true,
+    "source": "https://www.today.it/citta/film-porno-casa-roma.html"
+  },
+  {
+    "title": "Eterna giovinezza: l’imprenditore spende 2 milioni l’anno per tornare 18enne",
+    "text": "Dopo una forte depressione, Brian Johnson, con un patrimonio di 800 milioni di dollari, investe 2 milioni di dollari l’anno per ringiovanire, dal punto di vista della pelle e del cuore.",
+    "img": "https://img.ilgcdn.com/sites/default/files/styles/xl/public/foto/2023/01/30/Bryan-Johnson.jpg?_=1675067047&format=webp",
+    "true_false": true,
+    "source": "https://www.ilgiornale.it/news/cronaca-internazionale/spende-2-milioni-dollari-l-anno-ringiovanire-programma-dell-2110624.html"
+  },
+  {
+    "title": "Torna da un viaggio e trova la casa invasa da 17 porcellini d’India",
+    "text": "Una signora aveva lasciato le chiavi di casa ad un suo amico prima di partire per una vacanza. Al rientro si ritrovò la casa sommersa di porcellini d’India e l’amico non si fece mai più sentire.",
+    "img": "https://citynews-today.stgy.ovh/~media/horizontal-hi/8349418961805/cavia-enpa-monza-2.jpg",
+    "true_false": true,
+    "source": "https://www.today.it/web/casa-invasa-porcellini-d-india.html"
+  },
+  {
+    "title": "Rubò 5.20 euro in un supermarket nel 2006: arrestato dopo 17 anni",
+    "text": "Il furto è avvenuto in un market di Firenze nel 2006 e l’uomo, un senzatetto, è stato denunciato. Dopo 17 anni però è stato arrestato dai carabinieri a Bologna.",
+    "img": "https://www.ansa.it/webimages/img_457x/2014/11/26/bfcc87d9d21f3dc6eed88c75ab7f956d.jpg",
+    "true_false": true,
+    "source": "https://www.ansa.it/sito/notizie/cronaca/2023/02/10/rubo-5-euro-di-cibo-al-supermercato-in-carcere-17-anni-dopo_1b358405-6ae5-4040-8294-eec2b2b04f9a.html"
+  },
+  {
+    "title": "USA, bambino fa un ordine da mille dollari di cibo con il telefono del padre",
+    "text": "La vicenda riguarda un bambino di 6 anni, che volendo fare un costoso scherzo ai genitori, ha ordinato ben 1000 dollari di cibo su Grubhub.",
+    "img": "https://www.r101.it/resizer/620/350/true/GettyImages-1392506833-1675422862364.jpg--bimbo_ordina_1000_dollari_di_cibo_sul_cellullare_del_papa_.jpg?1675422863090",
+    "true_false": true,
+    "source": "https://www.r101.it/news/fuori-onda-news/1345460/gioca-con-il-cellulare-del-papa-e-ordina-1000-dollari-di-cibo.html"
+  },
+  {
+    "title": "Una donna cilena nuota per oltre 2 Km in Antartide",
+    "text": "Barbara Hernandez, 37 anni, ha realizzato una lunga nuotata di 2,5 Km attraverso le acque più gelide del pianeta. La giornata scelta è stata non proprio la più calda dell’anno, 10 febbraio.",
+    "img": "https://www.repstatic.it/content/nazionale/img/2023/02/21/090313737-e99215a4-28f8-453d-aa82-2c649561a459.jpg?webp",
+    "true_false": true,
+    "source": "https://www.repubblica.it/sport/vari/2023/02/21/news/barbara_hernandez_antartide_nuoto_guiness_primati-388817948/"
+  },
+  {
+    "title": "USA, 400.000 dollari per abbattere un oggetto volante misterioso: era un pallone da 12 dollari.",
+    "text": "Si tratta di un pallone aerostatico per la misura della temperatura e dell’umidità dell’aria e per essere abbattuto la spesa è stimata in circa 400.000 dollari a carico del governo americano.",
+    "img": "https://img-prod.tgcom24.mediaset.it/images/2023/02/19/081014115-836b614c-33b6-4259-a4c6-8b8638512157.jpg",
+    "true_false": true,
+    "source": "https://www.tgcom24.mediaset.it/mondo/usa-400mila-dollari-abbattere-pallone-elio_61280686-202302k.shtml#:~:text=Agli%20Usa%20abbattere%20gli%20oggetti,club%20aeronautico%20amatoriale%20dell'Illinois."
+  },
+  {
+    "title": "Riccione: vietato fumare in spiaggia",
+    "text": "Per dissuadere i cittadini dal gettare mozziconi in spiaggia, la città di Riccione ha emanato un’ordinanza che vieta, per motivi ambientali e pulizia generale, le sigarette e il fumo in spiaggia.",
+    "img": "https://dimages2.corriereobjects.it/files/main_image/uploads/2023/04/01/64282802820a3.jpeg",
+    "true_false": true,
+    "source": "https://corrieredibologna.corriere.it/notizie/cronaca/23_aprile_01/riccione-da-oggi-e-vietato-fumare-in-spiaggia-l-area-rossa-le-regole-le-sanzioni-8ea7a68e-0a22-4e32-b9dc-59d76cf04xlk.shtml"
+  },
+  {
+    "title": "Carne sintetica: arriva la polpetta di mammut",
+    "text": "Dall'Australia arriva una nuova specialità con uno scopo ben preciso: ridurre l’impatto ambientale. Questa azienda con un pezzo di sequenza di DNA di un animale estinto ha realizzato una polpetta di carne di mammut.",
+    "img": "https://www.focus.it/ambiente/ecologia/carne-sintetica-le-polpette-di-mammut?modal-open=328475&slide-open=zoom",
+    "true_false": true,
+    "source": "https://www.focus.it/ambiente/ecologia/carne-sintetica-le-polpette-di-mammut"
+  },
+  {
+    "title": "L'uomo che va in giro con un bong a forma di AK-47",
+    "text": "La presenza di una persona armata ha fatto scattare la caccia all'uomo per le strade di Sydney, in Australia. Ma una volta individuato, il presunto fucile d'assalto si è rivelato uno strumento utilizzato per fumare la marijuana",
+    "img": "https://citynews-today.stgy.ovh/~media/horizontal-hi/23445684402295/bong-ak-47-polizia-new-south-wales-foto-2.jpg",
+    "true_false": true,
+    "source": "https://www.today.it/web/bong-fucile-arrestato.html"
+  },
+  {
+    "title": "Mamma incinta del figliastro, il marito: 'Sesso mentre ero a casa'",
+    "text": "Marina Balmasheva ha da poco dato alla luce il secondo figlio. Il padre dei sui bimbi oggi ha 23 anni, ma lei lo ha accolto in casa quando di anni ne aveva solo sette e lo ha cresciuto",
+    "img": "https://citynews-today.stgy.ovh/~media/horizontal-hi/31280384242338/marina-balmasheva2.jpg",
+    "true_false": true,
+    "source": "https://www.today.it/web/marina-sesso-figliastro-figli.html"
+  },
+  {
+    "title": "Meloni 'presidente pilota' sale alla guida di un caccia F35",
+    "text": "Fuoriprogramma aereo per la premier Giorgia Meloni dopo la cerimonia per il centenario dell'Aeronautica militare",
+    "img": "https://citynews-today.stgy.ovh/~media/horizontal-hi/12910265934856/meloni-crosetto-f35-foto-la-presse.jpg",
+    "true_false": true,
+    "source": "https://www.today.it/politica/meloni-f35.html"
+  },
+  {
+    "title": "Apre il portellone dell'aereo prima del decollo e si lancia dallo scivolo: arrestato",
+    "text": "È successo su un volo della Delta Airlines in partenza da Los Angeles e diretto a Seattle: il passeggero 'indisciplinato' è stato bloccato e consegnato alla polizia",
+    "img": "https://citynews-today.stgy.ovh/~media/horizontal-hi/38414128759537/arrestato-delta-twitter.jpg",
+    "true_false": true,
+    "source": "https://www.today.it/web/apre-portellone-aereo.html"
+  },
+  {
+    "title": "Zebra scappa dallo zoo e vaga per le strade",
+    "text": "La gita fuori porta dell'animale tra le vie trafficate di Seul",
+    "img": "https://citynews-today.stgy.ovh/~media/horizontal-hi/22205149219383/zebra-a-seul-2.jpg",
+    "true_false": true,
+    "source": "https://www.today.it/web/Seul-zebra-scappa-da-zoo.html"
+  },
+  {
+    "title": "Italia, svolta storica: un paziente cieco torna a vedere",
+    "text": "Un’uomo cieco da entrambi gli occhi è tornato a vedere grazie ad un incredibile intervento eseguito all’ospedale Molinette di Torino. Oggi dopo due settimane dall’intervento è tornato a vedere.",
+    "img": "https://quifinanza.it/wp-content/uploads/sites/5/2023/03/equipe-intervento-cieco-molinette.jpg?w=832&h=468&quality=90&strip=all&crop=1",
+    "true_false": true,
+    "source": "https://quifinanza.it/salute/video/cieco-torna-vedere-italia-primo-intervento-al-mondo/698857/#:~:text=Completamente%20cieco%20da%206%20anni,all'ospedale%20torinese%20delle%20Molinette"
+  },
+  {
+    "title": "Colombia, dopo quasi dieci anni in convento, decide di dedicarsi al porno",
+    "text": "Accade a Medellin: Yudi Pineda perde la vocazione a 18 anni, le viene proposto di esibirsi davanti alle webcam per adulti e accetta",
+    "img": "https://img.tgcom24.mediaset.it/binary/articolo/instagram/42.$plit/C_2_articolo_3172253_upiImagepp.jpg",
+    "true_false": true,
+    "source": "https://www.tgcom24.mediaset.it/mondo/colombia-dopo-quasi-dieci-anni-in-convento-decide-di-dedicarsi-al-porno_3172253-201802a.shtml"
+  },
+  {
+    "title": "Bologna, perseguita il vicino con delle feci",
+    "text": "Dopo 14 anni è stato finalmente arrestato dai carabinieri l'uomo che molestava una famiglia straniera, vicina di casa, gettando feci e topi morti dalle finestre dell'appartamento.",
+    "img": "https://citynews-today.stgy.ovh/~media/horizontal-hi/60099525966728/carabinieri-lapresse-archivio.jpg",
+    "true_false": true,
+    "source": "https://www.today.it/cronaca/stalking-vicini-casa-anziano-bologna.html"
+  },
+  {
+    "title": "Si tuffa nel Po e muore annegato",
+    "text": "Un ragazzo di 18 anni straniero residente in una comunità di Torino si è gettato nel fiume Po dopo una scommessa con gli amici. È stato subito perso di vista e il suo corpo non si è mai più ritrovato.",
+    "img": "https://st.ilfattoquotidiano.it/wp-content/uploads/2023/04/10/fiumepo-690x362.jpg",
+    "true_false": true,
+    "source": "https://www.today.it/citta/si-tuffa-po-scommessa-disperso-torino.html"
+  },
+  {
+    "title": "Maestra sospesa ad Oristano per aver fatto recitare delle preghiere in classe.",
+    "text": "Nella scuola primaria San Vero Milis di Oristano una maestra è stata sospesa per 20 giorni. Il provvedimento arriva dopo le lamentele di alcuni genitori per via delle preghiere fatte recitare dalla maestra ai bambini in classe nei giorni precedenti a Natale. L’insegnante si difende sostenendo di aver chiesto ad inizio anno il permesso ai genitori di recitare le preghiere in classe e annuncia di star preparando un ricorso alla sospensione imposta dal preside dell’istituto.",
+    "img": "https://www.orizzontescuola.it/wp-content/uploads/2023/01/shutterstock_1285165810-1536x1024.jpg",
+    "true_false": true,
+    "source": "https://www.orizzontescuola.it/maestra-sospesa-per-una-preghiera-in-classe-ecco-cosa-sta-dietro-alla-sospensione-le-parole-dellusr-sardegna/"
+  },
+  {
+    "title": "In Florida dal 1 Luglio per poter girare armati basterà un documento d’identità.",
+    "text": "Con un nuovo provvedimento il governatore dello stato americano della Florida semplifica ulteriormente la modalità di acquisto e di trasporto delle armi da fuoco. Infatti dal 1 luglio sarà possibile possedere un’arma da fuoco con solamente un documento d’identità, anche se sprovvisti del porto d’armi e di precisi addestramenti.",
+    "img": "https://www.rainews.it/cropgd/806x460/dl/img/2022/06/14/1655178488169_armi.jpg",
+    "true_false": true,
+    "source": "https://www.rainews.it/articoli/2023/04/da-luglio-in-florida-non-servir-pi-nessuna-licenza-per-portare-unarma-basta-la-carta-didentit-82d81d9c-5c0d-4cea-8432-042fd06193e0.html"
+  },
+  {
+    "title": "La Svezia sta costruendo una strada in grado di ricaricare i veicoli elettrici mentre la percorrono.",
+    "text": "In Svezia l’azienda Electron, specializzata in soluzioni per la ricarica wireless di veicoli elettrici, sta costruendo delle strade con delle bobine poste sotto la pavimentazione stradale in grado di ricaricare i veicoli che la percorrono, evitando così i lunghi tempi d’attesa nelle stazioni di ricarica, uno dei più grandi problemi della mobilità elettrica.",
+    "img": "https://cdn.motor1.com/images/mgl/LBN0M/s3/autostrada-wireless-in-svezia.webp",
+    "true_false": true,
+    "source": "https://insideevs.it/news/409255/svezia-autostrada-ricarica-wireless/"
+  },
+  {
+    "title": "New York, il ristorante vegano dove si mangia nudi",
+    "text": "Una ristoratrice di New York organizza un’esperienza chiamata Fude Dinner Experience, dove la particolarità consiste nella pranzare al tavolo completamente nudi che secondo l’ideatrice pranzare in questo modo ci avvicina al nostro io più puro.",
+    "img": "https://citynews-today.stgy.ovh/~media/horizontal-hi/40465598259040/dal-profilo-instagram-fudedinnerexperience.jpeg",
+    "true_false": true,
+    "source": "https://www.today.it/storie/new-york-il-ristorante-vegano-dove-si-cena-nudi.html"
+  },
+  {
+    "title": "Finlandia:sospetto ladro di auto incastrato da una zanzara",
+    "text": "nel 2008 la polizia trovò una zanzara schiacciata in un’automobile rubata e poi abbandonata. Dopo aver analizzato il sangue che l’animale aveva inserito gli uomini sono riusciti a risalire all’identità del ladro.",
+    "img": "https://www.corriere.it/Media/Foto/2008/12/22/zanzara_b1--180x140.jpg",
+    "true_false": true,
+    "source": "https://www.corriere.it/cronache/08_dicembre_22/zanzara_incastra_ladro_auto_aa389db8-d03a-11dd-b6ee-00144f02aabc.shtml"
+  },
+  {
+    "title": "Genova: ecco la focaccia più grande del mondo: è lunga 350 metri",
+    "text": "350 metri di lunghezza per 1 tonnellata di peso, questi sono i numeri della focaccia più lunga del mondo, realizzata a Genova e servita al pubblico il 15 aprile. Questa pietanza verrà servita in occasione dell’arrivo nel capoluogo ligure di una nuova crociera MSC.",
+    "img": "https://citynews-genovatoday.stgy.ovh/~media/horizontal-hi/70326191325678/focaccia-2.jpg",
+    "true_false": true,
+    "source": "https://www.genovatoday.it/attualita/focaccia-lunga-mondo.html#:~:text=Pi%C3%B9%20di%20una%20tonnellata%20di,nuova%20ammiraglia%20Msc%20World%20Europa"
+  },
+  {
+    "title": "La Russia ottiene buona parte dei fondali emersi dell’Artico",
+    "text": "Lo scioglimento della calotta polare ha portato alla luce nuove terre, prima ricoperte da ghiaccio perenne ed ora gli stati limitrofi al Polo Nord ne rivendicano la proprietà. Si è perciò reso necessario creare una commissione ONU per risolvere la disputa, commissione che al momento ha riconosciuto alla Russia gran parte di questi territori, che in quanto ricchi di gas naturale porteranno allo stato di Putin un enorme ritorno economico.",
+    "img": "https://img.ilgcdn.com/sites/default/files/styles/xl/public/foto/2023/03/20/1679292749-hans-jurgen-mager-ec-ygztiv-0-unsplash.jpg?_=1679292749&format=webp",
+    "true_false": true,
+    "source": "https://www.ilgiornale.it/news/politica/mani-russia-anche-sullartico-primo-ok-dellonu-polo-nord-suo-2128569.html"
+  },
+  {
+    "title": "Studenti in Texas raccolgono 216.000 dollari per mandare in pensione il bidello",
+    "text": "Il bidello della Callisburg High School in Texas, conosciuto come Mr. James, dopo aver raggiunto l’età pensionabile è dovuto tornare a lavoro per le crescenti spese, così tre ragazzi colpiti della scuola colpiti dalla storia hanno lanciato un crowdfunding di 10.000 dollari per aiutare il bidello, l’obiettivo è stato ampiamente superato, arrivando alla cifra record di 216.000$, permettendo al bidello ormai 80enne di godersi la pensione.",
+    "img": "https://www.notizie247.it/wp-content/uploads/2023/02/Bidello.jpg",
+    "true_false": true,
+    "source": "https://www.notizie247.it/2023/02/23/80enne-costretto-a-lavorare-nonostante-leta-il-gesto-degli-studenti-fa-il-giro-del-web/"
+  },
+  {
+    "title": "È arrivato il prete robot",
+    "text": "A creare questo robot è stato un team guidato da Hiroshi Ishiguro, docente di Robotica Intelligente all’Università di Osaka. Il suo collaboratore, Kohei Ogawa, ha spiegato al Washington Post come il loro obiettivo fosse utilizzare le moderne tecnologie per creare una statua buddista robotica. Il risultato è una collaborazione da un milione di dollari tra il tempio e l’Università di Osaka, durante la quale è stato deciso che Mindar avrebbe incarnato la divinità buddista della pietà: Kannon Bodhisattva.",
+    "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-1129444022.jpg?resize=980:*",
+    "true_false": true,
+    "source": "https://www.esquire.com/it/lifestyle/tecnologia/a28926720/prete-robot/#:~:text=A%20pronunciare%20queste%20parole%20nel,(pi%C3%B9%20o%20meno)%20umane.&text=A%20creare%20questo%20robot%20%C3%A8,Intelligente%20all'Universit%C3%A0%20di%20Osaka"
+  },
+  {
+    "title": "Fa guidare l'amico senza braccia: scattano le manette per il proprietario dell'auto",
+    "text": "Nel corso di un pattugliamento notturno gli agenti hanno visto una Mercedes frenare ed accelerare immotivatamente e svoltare senza azionare la freccia. Ovviamente hanno subito proceduto a fermare l'auto, che poteva diventare un pericolo pubblico. L'uomo alla guida oltre a essere sprovvisto della patente era anche privo del braccio destro, mentre il suo arto sinistro era senza avambraccio. Nonostante ciò guidava un’auto sprovvista dei necessari adattatori per consentire la guida alle persone con disabilità. Il proprietario dell'auto era ubriaco sul sedile del passeggero. A causa della sua impossibilità a guidare ha chiesto all’amico di farlo al posto suo, pensando di far bene.",
+    "img": "https://citynews-today.stgy.ovh/~media/horizontal-hi/26261440863580/municipale-2.jpg",
+    "true_false": true,
+    "source": "https://www.today.it/rassegna/guida-senza-braccia-paova.html"
+  },
+  {
+    "title": "Si mutila i genitali mentre dorme: 'Sognavo di tagliare della carne'",
+    "text": "Brutta avventura per un contadino di 47 anni del Ghana che si è ferito al pene e allo scroto nel sonno. Soccorso dai vicini di casa, è ricoverato in condizioni critiche.  Un contadino di 47 anni residente ad Assim Akomfode, stava schiacciando un pisolino pomeridiano su una sedia dentro casa sua quando, durante il sonno, ha sognato qualcuno che gli diceva di “tagliare della carne” per aiutare a preparare del cibo. Una volta svegliato, ha sentito forti dolori all'interno del pene e dello scroto. È stato in quel momento che ha realizzato di essersi tagliato erroneamente i genitali.",
+    "img": "https://ichef.bbci.co.uk/news/477/cpsprodpb/0125/live/234d36a0-1d52-11ed-b302-350f627b9b87.jpg",
+    "true_false": true,
+    "source": "https://tg24.sky.it/mondo/2022/08/17/si-taglia-genitali-mentre-dorme#:~:text=Un%20uomo%20del%20Ghana%20si,attesa%20di%20un%20intervento%20chirurgico"
+  }
+]
+
+
