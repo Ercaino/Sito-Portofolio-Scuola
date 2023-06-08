@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Meta tag -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description" content="Site portfolio for school">
+    <meta name="author" content="Sappia Fulvio">
+
+    <!-- Meta tag og -->
+    <meta property="og:title" content="Portfolio Sappia ❐☆">
+    <meta property="og:type" content="portfolio">
+    <meta property="og:description" content="Site portfolio for school">
+
+    <!-- Generality -->
+    <title>Portfolio Sappia ❐☆</title>
+    <link rel="shortcut icon" type="image/jpg" href="../../../src/asset/image/LogoBook_1.png" sizes="16x16">
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+    <link rel="stylesheet" href="../../../src/css/style_index.css"/>
+    <link rel="stylesheet" href="../../../src/css/styles.css"/>
+    <link rel="stylesheet" href="../../../src/css/style_header.css" />
+
+</head>
+<body>
+
+    <!-- Header -->
+    <header class="header clearfix">
+        <div>
+            <a href="../../../index.html" class="header_logo">
+                <img class="logo_img" src="../../../src/asset/image/LogoBook_2.png" alt="Logo">
+                ┌ Portfolio Sappia ❐☆
+            </a>
+        </div>
+        <div>
+            <ul class="header_menu">
+                <li class="header_menu_item"><a href="../../../index.html">Home</a></li>
+                <li class="header_menu_item"><a href="../Project.html">Project</a></li>
+                <li class="header_menu_item"><a href="../../Contact/Contact.html">Contact</a></li>
+                <li class="header_menu_item"><a href="../../Time/Time.html">Time</a></li>
+                <li class="header_menu_item"><a href="../../Login/Login.html">Login
+                        <img src="../../../src/asset/image/LogoLogin.png" alt="Login" class="header_login">
+                        </a>
+                </li>
+            </ul>
+        </div>
+        
+        <button id="burger" class="open-main-nav">
+            <span class="burger"></span>
+            <span class="burger-text">Menu</span>
+        </button>
+        <nav class="main-nav" id="main-nav">
+			<ul>
+				<li class="header_menu_item"><a href="../../../index.html">Home</a></li>
+                <li class="header_menu_item"><a href="../Project.html">Project</a></li>
+                <li class="header_menu_item"><a href="../../Contact/Contact.html">Contact</a></li>
+                <li class="header_menu_item"><a href="../../Time/Time.html">Time</a></li>
+                <li class="header_menu_item"><a href="../../Login/Login.html">Login
+                        <img src="../../../src/asset/image/LogoLogin.png" alt="Login" class="header_login">
+                        </a>
+                </li>
+			</ul>
+		</nav>        
+	</header>
+
+    <main>
+        <section class="py-5">
+            <div class="py-5 container px-5 my-1">
+                <div class="row gx-5 justify-content-center">
+                    <div class="col-lg-8 col-xl-10">
+                        <div class="text-center">
+                            <h1 class="fw-bolder">Arduino</h1>
+                            <p class="lead fw-normal text-muted mb-5">Arduino è una piattaforma open-source che combina hardware e software per creare progetti interattivi e prototipi. Si compone di una scheda di sviluppo con un microcontrollore e di un ambiente di programmazione dedicato. Grazie ai suoi numerosi pin di input/output, è possibile collegare sensori, attuatori e altri componenti. Arduino trova applicazione in vari settori, come l'elettronica e l'Internet delle cose (IoT), consentendo di realizzare progetti di automazione, robotica, monitoraggio ambientale e molte altre applicazioni creative.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row gx-5">
+                    <div class="col-lg-4 mb-5">
+                        <div class="card h-100 shadow border-0">
+                            <!-- <img class="card-img-top" src="src/asset/image/Program.gif" alt="..." /> -->
+                            <div class="card-body p-4">
+                                <div class="badge bg-primary bg-gradient rounded-pill mb-2">Arduino Project</div>
+                                <a class="text-decoration-none link-dark stretched-link" href="Arduino/Semaforo.html"><h5 class="card-title mb-3">SEMAFORO</h5></a>
+                                <p class="card-text mb-0">Realizzare 2 semafori comunicanti, uno pedonale e uno di corsia.
+                                    All’accensione della luce rossa del semaforo pedonale, con un pulsante di interact, far azionare un conto
+                                    alla rovescia di 10 secondi con un display a 7 segmenti <br> (i secondi saranno visualizzati da 9 a 0)</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 mb-5">
+                        <div class="card h-100 shadow border-0">
+                            <!-- <img class="card-img-top" src="src/asset/image/Chess.jpg" alt="..." /> -->
+                            <div class="card-body p-4">
+                                <div class="badge bg-primary bg-gradient rounded-pill mb-2">Arduino Project</div>
+                                <a class="text-decoration-none link-dark stretched-link" href="Arduino/Telemetro.html"><h5 class="card-title mb-3">TELEMETRO</h5></a>
+                                <p class="card-text mb-0">Realizzare un circuito elettrico per la misurazione della distanza di un oggetto dal punto di osservazione, attraverso una rilevazione acustica.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer-->
+    <footer class="bg-dark py-4 mt-auto">
+        <div class="container px-5">
+            <div class="row align-items-center justify-content-between flex-column flex-sm-row">
+                <div class="col-auto"><div class="small m-0 text-white">Copyright - 2023 &copy; Ercaino | Fulvio</div></div>
+                <div class="col-auto">
+                    <!-- <a class="link-light small" href="#!">Privacy</a>
+                    <span class="text-white mx-1">&middot;</span>
+                    <a class="link-light small" href="#!">Terms</a>
+                    <span class="text-white mx-1">&middot;</span> -->
+                    <a class="link-light small" href="../../Contact/Contact.html">Contact</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="../../../src/js/script_card.js"></script>
+    <script src="../../../src/js/script_burger_menu.js"></script>
+    <script  src="../../../script.js"></script>
+
+</body>
+</html>

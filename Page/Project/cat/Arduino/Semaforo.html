@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Meta tag -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description" content="Site portfolio for school">
+    <meta name="author" content="Sappia Fulvio">
+
+    <!-- Meta tag og -->
+    <meta property="og:title" content="Portfolio Sappia ❐☆">
+    <meta property="og:type" content="portfolio">
+    <meta property="og:description" content="Site portfolio for school">
+
+    <!-- Generality -->
+    <title>Portfolio Sappia ❐☆</title>
+    <link rel="shortcut icon" type="image/jpg" href="../../../../src/asset/image/LogoBook_1.png" sizes="16x16">
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+    <link rel="stylesheet" href="../../../../src/css/style_index.css"/>
+    <link rel="stylesheet" href="../../../../src/css/styles.css"/>
+    <link rel="stylesheet" href="../../../../src/css/style_header.css" />
+
+</head>
+<body>
+
+    <!-- Header -->
+    <header class="header clearfix">
+        <div>
+            <a href="../../../../index.html" class="header_logo">
+                <img class="logo_img" src="../../../../src/asset/image/LogoBook_2.png" alt="Logo">
+                ┌ Portfolio Sappia ❐☆
+            </a>
+        </div>
+        <div>
+            <ul class="header_menu">
+                <li class="header_menu_item"><a href="../../../../index.html">Home</a></li>
+                <li class="header_menu_item"><a href="../../Project.html">Project</a></li>
+                <li class="header_menu_item"><a href="../../../Contact/Contact.html">Contact</a></li>
+                <li class="header_menu_item"><a href="../../../Time/Time.html">Time</a></li>
+                <li class="header_menu_item"><a href="../../../Login/Login.html">Login
+                        <img src="../../../../src/asset/image/LogoLogin.png" alt="Login" class="header_login">
+                        </a>
+                </li>
+            </ul>
+        </div>
+        
+        <button id="burger" class="open-main-nav">
+            <span class="burger"></span>
+            <span class="burger-text">Menu</span>
+        </button>
+        <nav class="main-nav" id="main-nav">
+			<ul>
+				<li class="header_menu_item"><a href="../../../../index.html">Home</a></li>
+                <li class="header_menu_item"><a href="../../Project.html">Project</a></li>
+                <li class="header_menu_item"><a href="../../../Contact/Contact.html">Contact</a></li>
+                <li class="header_menu_item"><a href="../../../Time/Time.html">Time</a></li>
+                <li class="header_menu_item"><a href="../../../Login/Login.html">Login
+                        <img src="../../../../src/asset/image/LogoLogin.png" alt="Login" class="header_login">
+                        </a>
+                </li>
+			</ul>
+		</nav>        
+	</header>
+
+    <main>
+        <section class="py-5">
+            <div class="py-5 my-4">
+                <div class="container py-5 px-5 my-5">
+                    <div class="row gx-5 align-items-center">
+                        <div class="col-lg-6 order-first order-lg-last"><img class="img-fluid rounded mb-5 mb-lg-0" src="../../../../src/asset/image/Semaforo_reale_Arduino.png" alt="..." /></div>
+                        <div class="col-lg-6">
+                            <h2 class="fw-bolder">Arduino Semaforo</h2>
+                            <p class="lead fw-normal text-muted mb-0">Il progetto consiste nella realizzazione di due semafori, uno per i pedoni e uno per la corsia. Quando la luce rossa del semaforo pedonale si accende a seguito della pressione di un pulsante, verrà avviato un conto alla rovescia di 10 secondi, il quale sarà visualizzato su un display a 7 segmenti.</p>
+                        </div>
+                    </div>
+                    <div class="py-5 row gx-5 align-items-center">
+                        <div class="col-lg-6 order-first order-lg-last"><img class="img-fluid rounded mb-5 mb-lg-0" src="../../../../src/asset/image/Semaforo_simulato_Arduino.png" alt="..." /></div>
+                        <div class="col-lg-6">
+                            <p class="lead fw-normal text-muted mb-0">Il circuito è stato inizialmente assemblato in un ambiente online (TinKerCad)</p>
+                        </div>
+                    </div>
+                    
+                    <div class="col-xl-8">
+                        <div class="accordion mb-5" id="accordionExample">
+                            <div class="accordion-item">
+                                <h3 class="accordion-header" id="headingTwo"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Spiegazione</button></h3>
+                                <div class="accordion-collapse collapse" id="collapseTwo" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p class="lead fw-normal text-muted mb-0">
+                                            <strong>1</strong> Disponi 6 LED sulla breadboard: 3 per il semaforo pedonale e 3 per il semaforo veicolare. <br>
+                                            <strong>2</strong> Collega i LED ai pin dell'Arduino: collega il catodo di ciascun LED al GND dell'Arduino e l'anodo attraverso una resistenza da 1kΩ a un pin di Arduino. <br>
+                                            <strong>3</strong> Riserva i pin iniziali dell'Arduino per il pulsante e il display: collega il pulsante al pin 2, il display tra i pin 3 e 9 e i LED tra i pin 10 e A1. <br>
+                                            <strong>4</strong> Utilizza i pin A0 e A1 come pin digitali per i LED rimanenti. <br>
+                                            <strong>5</strong> Collega il pulsante al GND dell'Arduino tramite una resistenza da 1kΩ. <br>
+                                            <strong>6</strong> Collega il pin comune del display al GND dell'Arduino attraverso una resistenza da 330Ω. <br>
+                                            <strong>7</strong> Utilizza i pin da 2 ad A1 per collegare tutti i componenti. <br>
+                                            <strong>8</strong> Nel void setup, dichiara tutti i pin come output, ad eccezione del pin del pulsante che viene dichiarato come input. <br>
+                                            <strong>9</strong> Accendi il LED verde del semaforo veicolare e il LED rosso del semaforo pedonale all'inizio del codice. <br>
+                                            <strong>10</strong> Utilizza l'attachInterrupt per gestire la pressione del pulsante in qualsiasi parte del codice. <br>
+                                            <strong>11</strong> Nel void loop, verifica se il LED verde del semaforo veicolare è spento. <br>
+                                            <strong>12</strong> All'interno di un IF, utilizza una funzione esterna per creare un ritardo di tempo. <br>
+                                            <strong>13</strong> Nella funzione esterna, spegni il LED verde e accendi il LED giallo del semaforo veicolare. <br>
+                                            <strong>14</strong> Nel void loop, controlla se il pulsante è premuto. <br>
+                                            <strong>15</strong> All'interno di un secondo IF, gestisci il semaforo e il display. <br>
+                                            <strong>16</strong> Utilizza una matrice per controllare i segmenti del display. <br>
+                                            <strong>17</strong> Utilizza cicli for per accendere/spegnere i segmenti del display in base ai valori della matrice. <br>
+                                            <strong>18</strong> Aggiungi un delay di un secondo per visualizzare i numeri sul display. <br>
+                                            <strong>19</strong> Quando il conto alla rovescia raggiunge zero, accendi il LED giallo e spegni il LED verde del semaforo veicolare, e accendi il LED verde e spegni il LED rosso del semaforo pedonale. <br>
+                                    </div>  
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container px-5 my-5">
+                        <div class="row gx-5 align-items-center">
+                            <div class="col-lg-6"><img class="img-fluid rounded mb-5 mb-lg-0" src="../../../../src/asset/image/Arduino_board.png" alt="..." /></div>
+                            <div class="col-lg-6">
+                                <h3 class="fw-bolder">Competenze Ottenute</h3>
+                                <p class="lead fw-normal text-muted mb-0">
+                                    Conoscenza di base sull'uso di Arduino <br>
+                                    Programmazione con Arduino <br>
+                                    Gestione dei componenti elettronici <br>
+                                    Controllo di circuiti <br>
+                                    Programmazione degli interrupt <br>
+                                    Capacità di risolvere problemi <br>
+                                    Creatività e progettazione <br>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                
+                    <div class="card shadow border-0 rounded-4 mb-5">
+                        <div class="card-body p-5">
+                            <div class="row align-items-center gx-5">
+                                <div class="col text-center text-lg-start mb-4 mb-lg-0">
+                                    <div class="bg-light p-4 rounded-4">
+                                        <div class="text-primary fw-bolder mb-2">3/02/2023</div>
+                                        <div class="small fw-bolder">SEMAFORO</div>
+                                        <div class="small text-muted">Tpsit</div>
+                                        <div class="small text-muted">Laboratorio di Telecomunicazioni</div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-8">
+                                    <div>
+                                        <p class="lead fw-normal text-muted">--- Progetto Scolastico Arduino<br>--- Progetto Simulato <a class="text-decoration-none" href="https://www.tinkercad.com/things/2Irtjwa308e?sharecode=4uO7pe-E3fHJWk3-pBGuXgkVT4C277JwsYUGr6Vi6QM">Link</a><br>--- Scaricare il file <a class="text-decoration-none" href="../../../../src/asset/pdf/Relazione_Semaforo_Sappia.pdf">Relazione<i class="bi-arrow-right"></i></a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+        
+
+    <!-- Footer-->
+    <footer class="bg-dark py-4 mt-auto">
+        <div class="container px-5">
+            <div class="row align-items-center justify-content-between flex-column flex-sm-row">
+                <div class="col-auto"><div class="small m-0 text-white">Copyright - 2023 &copy; Ercaino | Fulvio</div></div>
+                <div class="col-auto">
+                    <!-- <a class="link-light small" href="#!">Privacy</a>
+                    <span class="text-white mx-1">&middot;</span>
+                    <a class="link-light small" href="#!">Terms</a>
+                    <span class="text-white mx-1">&middot;</span> -->
+                    <a class="link-light small" href="../../../Contact/Contact.html">Contact</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="../../../../src/js/script_card.js"></script>
+    <script src="../../../../src/js/script_burger_menu.js"></script>
+    <script  src="../../../../script.js"></script>
+    <!-- Bootstrap core JS-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Core theme JS-->
+    <script src="./../../../src/js/scripts.js"></script>
+
+</body>
+</html>

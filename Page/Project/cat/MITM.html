@@ -67,7 +67,117 @@
 	</header>
 
     <main>
+        <section class="py-5">
+            <div class="py-5 my-4">
+                <div class="container py-5 px-5 my-5">
+                    <div class="row gx-5 align-items-center">
+                        <div class="col-lg-6 order-first order-lg-last"><img class="img-fluid rounded mb-5 mb-lg-0" src="../../../src/asset/image/Mitm.jpg" alt="..." /></div>
+                        <div class="col-lg-6">
+                            <h2 class="fw-bolder">MITM</h2>
+                            <p class="lead fw-normal text-muted mb-0">Realizzare un attacco MITM su kali linux, con l’ausilio di “arpspoof” che è un tool di kali, per effettuare un attacco di Arp Poisoning.</p>
+                        </div>
+                    </div>
+                    <div class="py-5 row gx-5 align-items-center">
+                        <p class="lead fw-normal text-muted mb-4">
+                            L’attacco MITM (Man in the Middle) tradotto in italiano come “L’uomo nel mezzo”. E’ un attacco informatico di tipo passivo, intenzionato ad accedere ed intercettare, 
+                                rubare o modificare dati sensibili, interrompere comunicazioni e inviare collegamenti 
+                                o pacchetti dannosi ad una delle due parti.
+                                Assume spesso abbreviazioni come (MIM, MIM attack o MITMA) oltre a quella principale.<br><br>
+                   
+                                E’ un attacco di intercettazione in cui un soggetto ostacola la comunicazione e quindi il 
+                                trasferimento di dati tra i server del mittente (trasmettitore) e del destinatario (ricevitore),
+                                si frappone nella comunicazione per captare informazioni, in maniera invisibile agli host stessi.<br><br>
+                   
+                                E’ difficile intercettare/contrastare un attacco MITM.<br>
+                        </p>
+                    </div>
+                    <div class="col-xl-8">
+                        <div class="accordion mb-5" id="accordionExample">
+                            <div class="accordion-item">
+                                <h3 class="accordion-header" id="headingTwo"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Spiegazione Passaggi</button></h3>
+                                <div class="accordion-collapse collapse" id="collapseTwo" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p class="lead fw-normal text-muted mb-0">
+                                            Prima di iniziare l'esercitazione, è importante comprendere le azioni che eseguiremo, gli strumenti che utilizzeremo e i potenziali rischi coinvolti. <br>
+                                            Le macchine fisiche utilizzate hanno installato Windows 10/11 come sistema operativo, mentre la macchina virtuale ha caricato Kali Linux (qualsunque versione recente va bene per l'esercitazione).<br><br>
 
+                                            Ecco i passaggi da seguire:<br><br>
+
+                                            <strong>1</strong> Apri il prompt dei comandi o il terminale sulla macchina fisica. <br>
+                                            <strong>2</strong> Digita il comando "ipconfig" per visualizzare l'indirizzo IP MAC e l'indirizzo IPv4 della macchina fisica. Fai riferimento all'interfaccia Ethernet se sono presenti più schede di rete. <br>
+                                            <strong>3</strong> Annota il MAC e l'IP su un foglio digitale per ricordarteli. <br>
+                                            <strong>4</strong> Questo passaggio è necessario per fornire il tuo indirizzo IP a un collega che eseguirà l'attacco, mentre tu farai lo stesso con un altro indirizzo per evitare conflitti di connessione di rete. <br>
+                                            <strong>5</strong> Accendi la macchina virtuale che userai per eseguire l'attacco. <br>
+                                            <strong>6</strong> Effettua l'accesso alla macchina virtuale utilizzando le credenziali predefinite di Kali, che di solito sono "kali/kali" o "root/toor" a seconda della versione. <br>
+                                            <strong>7</strong> Una volta effettuato l'accesso, apri la shell di Kali e inizia a configurare l'attacco MITM. <br>
+                                            <strong>8</strong> Cambia la scheda di rete della macchina virtuale da NAT a "scheda con bridge" per consentire una connessione diretta senza mascherare il traffico attraverso il PC fisico. <br>
+                                            <strong>9</strong> Imposta il layout della tastiera su italiano utilizzando il comando "setxkbmap -layout it". <br>
+                                            <strong>10</strong> Verifica che il layout della tastiera sia impostato correttamente premendo il trattino tra lo shift e il punto in basso al centro. Se viene inserito correttamente, hai configurato tutto correttamente. <br>
+                                            <strong>11</strong> Utilizza il comando "ifconfig" per visualizzare l'indirizzo MAC e l'indirizzo IP di Kali. <br>
+                                            <strong>12</strong> Verifica il gateway di rete utilizzando il comando "ip route show". Annota l'indirizzo del gateway (ad esempio, 192.168.0.89) poiché sarà necessario per comunicare con la rete locale durante l'esercitazione. <br>
+                                            <strong>13</strong> A questo punto, hai a disposizione l'indirizzo MAC e l'indirizzo IP della macchina fisica, l'indirizzo MAC e l'indirizzo IP di Kali, il gateway e l'indirizzo IP di un collega che si trova sulla stessa rete locale. <br>
+                                            <strong>14</strong> Installa i pacchetti necessari per eseguire l'attacco eseguendo i seguenti comandi con privilegi di amministratore: <br><br>
+                                            Aggiorna i pacchetti: "<code>sudo apt-get update</code>" <br>
+                                            Installa "dsniff": "<code>sudo apt-get install dsniff</code>" <br>
+                                            Installa "driftnet": "<code>sudo apt-get install driftnet</code>" <br>
+                                            (Se disponibile) Installa "urlsnarf": "<code>sudo apt-get install urlsnarf</code>" <br><br>
+                                            <strong>15</strong> Utilizza il comando "arp -a" per visualizzare la tabella di associazione tra indirizzo IP e indirizzo MAC. <br>
+                                            <strong>16</strong> Configura la rete abilitando la modalità promiscua sull'interfaccia (eth0 su Kali) e attiva l'inoltro IP eseguendo i seguenti comandi: <br><br>
+                                            Abilita la modalità promiscua: "<code>sudo ifconfig eth0 promisc</code>" <br>
+                                            Attiva l'inoltro IP: "<code>sudo sysctl -w net.ipv4.ip_forward=1</code>" <br><br>
+                                            <strong>17</strong> Prepara tre terminali: uno che stai utilizzando attualmente e altri due per l'attacco al bersaglio. <br>
+                                            <strong>18</strong> In uno dei terminali vuoti, esegui il comando "sudo arpspoof -i eth0 -t IP_gateway IP_bersaglio" per iniziare l'attacco. Sostituisci "IP_gateway" con l'indirizzo IP del gateway e "IP_bersaglio" con l'indirizzo IP del bersaglio. <br>
+                                            <strong>19</strong> Nel secondo terminale vuoto, esegui il comando "sudo arpspoof -i eth0 -t IP_bersaglio IP_gateway" per l'altro lato dell'attacco. <br>
+                                            <strong>20</strong> Nel terminale che hai utilizzato finora, digita "sudo driftnet -i eth0" per aprire un programma che consente la visualizzazione delle immagini trasmesse durante l'attacco. Sarai in grado di vedere cosa il tuo bersaglio sta navigando. <br>
+                                            <strong>21</strong> Se disponibile, puoi utilizzare il comando "sudo urlsnarf -i eth0" per ottenere i link dei collegamenti intercettati anziché le immagini. <br>
+                                            <strong>22</strong> Terminato l'attacco, ripristina le configurazioni chiudendo i terminali e disabilitando la modalità promiscua e l'inoltro IP eseguendo il comando "sudo sysctl -w net.ipv4.ip_forward=0". <br>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                       
+                    <div class="container px-5 my-5">
+                        <div class="row gx-5 align-items-center">
+                            <div class="col-lg-6"><img class="img-fluid rounded mb-5 mb-lg-0" src="../../../src/asset/image/Mitm_2.gif" alt="..." /></div>
+                            <div class="col-lg-6">
+                                <h3 class="fw-bolder">Competenze Ottenute</h3>
+                                <p class="lead fw-normal text-muted mb-0">
+                                    Comprensione del funzionamento delle reti <br>
+                                    Conoscenza degli strumenti e delle tecniche di attacco <br>
+                                    Familiarità con i protocolli di sicurezza <br>
+                                    Comprensione delle vulnerabilità della rete <br>
+                                    Capacità di rilevare e prevenire attacchi MITM <br>
+                                    Conoscenza delle implicazioni etiche e legali <br>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                
+                    <div class="card shadow border-0 rounded-4 mb-5">
+                        <div class="card-body p-5">
+                            <div class="row align-items-center gx-5">
+                                <div class="col text-center text-lg-start mb-4 mb-lg-0">
+                                    <div class="bg-light p-4 rounded-4">
+                                        <div class="text-primary fw-bolder mb-2">27/01/2023</div>
+                                        <div class="small fw-bolder">MITM</div>
+                                        <div class="small text-muted">Sistemi e reti</div>
+                                        <div class="small text-muted">Laboratorio di informatica</div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-8">
+                                    <div>
+                                        <p class="lead fw-normal text-muted">--- Attacco MITM a scopo informativo e scolastico<br>--- Guida Sistemi e Reti del professore <a class="text-decoration-none" href="../../../src/asset/pdf/Guida_di_Sistemi_e_Reti.pdf">Tutorial</a><br>--- Scaricare il file <a class="text-decoration-none" href="../../../src/asset/pdf/Relazione_Mitm_Sappia.pdf">Relazione<i class="bi-arrow-right"></i></a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
     </main>
 
     <!-- Footer-->
@@ -91,6 +201,10 @@
     <script src="../../../src/js/script_card.js"></script>
     <script src="../../../src/js/script_burger_menu.js"></script>
     <script  src="../../../script.js"></script>
+    <!-- Bootstrap core JS-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Core theme JS-->
+    <script src="./../../../src/js/scripts.js"></script>
 
 </body>
 </html>
