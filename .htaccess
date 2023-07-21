@@ -1,5 +1,5 @@
-//Custom 403 errors
-ErrorDocument 403 /Page/Error/403.html
+//Custom 401 errors
+ErrorDocument 401 /Page/Error/401.html
 
 //Custom 404 errors
 ErrorDocument 404 /Page/Error/404.html
